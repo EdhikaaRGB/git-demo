@@ -1,2 +1,2 @@
-This is remote repo
+This is local repo
 This line is  added from remote
